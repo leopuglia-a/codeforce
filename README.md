@@ -1,2 +1,2 @@
 # codeforce
-Exercices from codeforces.com 
+Exercices from https://codeforces.com/ 
